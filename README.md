@@ -47,3 +47,12 @@ https://api.slack.com/apps
   * Subscribe to Workspace Events:
     * Add "message.channels"
   * Click "Save Changes"
+
+### Try the Slack App
+
+* Invite your bot to a Slack channel
+* Post "hello" in the channel
+* You'll receive a response from the bot
+
+![hello](https://raw.githubusercontent.com/seratch/bolt-on-heroku/master/hello.png)
+

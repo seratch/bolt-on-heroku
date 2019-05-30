@@ -16,15 +16,15 @@ A framework to build Slack apps, fast.
 https://api.slack.com/apps
 
 * Features > OAuth & Permissions:
-  * Scopes
+  * Scopes:
     * "channels:history"
     * "chat:write:bot"
     * "bot"
   * Click "Save Changes"
-* Features > Bot User
+* Features > Bot User:
   * Click "Add a Bot User"
   * Click "Add Bot User"
-* Settings > Install App
+* Settings > Install App:
   * Complete "Install App"
 
 ### Deploy to Heroku

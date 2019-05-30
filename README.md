@@ -35,6 +35,8 @@ https://api.slack.com/apps
   * (Slack) Settings > Basic Information > App Credentials > Siginging Secret
   * (Slack) Settings > Install App > Bot User OAuth Access Token
 
+[![Heroku deployment page](https://raw.githubusercontent.com/seratch/bolt-on-heroku/master/deploy_to_heroku.png)](https://heroku.com/deploy?template=https://github.com/seratch/bolt-on-heroku/tree/master)
+
 ### Enable Slack Events Subscription
 
 * Features > Event Subscriptions:

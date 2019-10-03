@@ -27,6 +27,15 @@ https://api.slack.com/apps
 * Settings > Install App:
   * Complete "Install App"
 
+### Run the app on your local machine
+
+```bash
+export SLACK_SIGNING_SECRET=abcd1234567890123456789012345678
+export SLACK_BOT_TOKEN=xoxb-123456789012-123456789012-abcd12345678901234567890
+export DEBUG=1
+npm run local
+```
+
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/seratch/bolt-on-heroku/tree/master)

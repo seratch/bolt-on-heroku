@@ -25,10 +25,12 @@
   },
   "homepage": "https://github.com/seratch/bolt-on-heroku#readme",
   "dependencies": {
-    "@slack/bolt": "^2.2.3",
-    "@types/node": "<13",
-    "nodemon": "^2.0.4",
-    "ts-node": "^8.4.1",
-    "typescript": "^3.6.3"
+    "@slack/bolt": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.20.47",
+    "nodemon": "^2.0.15",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.10"
   }
 }
